@@ -1,11 +1,11 @@
 {
   "root": true,
   "project": {
-    "name": "<#< sanity.projectTitle >#>"
+    "name": "Testing SvelteKit & Sanity on Vercel"
   },
   "api": {
-    "projectId": "<#< sanity.projectId >#>",
-    "dataset": "<#< sanity.dataset >#>"
+    "projectId": "thisisjustatest",
+    "dataset": "what"
   },
   "plugins": [
     "@sanity/base",
